@@ -17,7 +17,9 @@
 Frontend:
 npm install
 npm start
+npm run dev
 
 Backend:
 npm install
 npm start
+npx nodemon server.js
